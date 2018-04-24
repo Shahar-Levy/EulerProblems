@@ -16,7 +16,6 @@ public class ProblemThree {
             if (num % i == 0){
                 System.out.println (i);
 
-//                return (num/i);
             }
         }
         return -1;
