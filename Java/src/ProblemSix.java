@@ -1,5 +1,3 @@
-package com.ShaharLevy;
-
 public class ProblemSix {
 
     //the difference between the sum of the squares of the first ten

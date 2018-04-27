@@ -1,5 +1,3 @@
-package com.ShaharLevy;
-
 public class ProblemFour {
 
     //A palindromic number reads the same both ways. The largest palindrome

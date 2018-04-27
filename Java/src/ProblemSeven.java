@@ -1,5 +1,3 @@
-package com.ShaharLevy;
-
 import java.util.ArrayList;
 
 public class ProblemSeven {

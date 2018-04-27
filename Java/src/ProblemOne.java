@@ -1,5 +1,3 @@
-package com.ShaharLevy;
-
 public class ProblemOne {
 
     public static void main(String[] args) {

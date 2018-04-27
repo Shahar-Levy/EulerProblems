@@ -1,5 +1,3 @@
-package com.ShaharLevy;
-
 public class ProblemEight {
 
     //The four adjacent digits in the 1000-digit number
