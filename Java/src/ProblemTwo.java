@@ -5,7 +5,7 @@ public class ProblemTwo {
 
     public static void main(String[] args){
         System.out.println(evenFibonacci(4000000));
-        System.out.println(recursiveEvenFibonacci(4000000,1,1,0));
+       // System.out.println(recursiveEvenFibonacci(4000000,1,1,0));
     }
 
     public static int evenFibonacci(int limit){
